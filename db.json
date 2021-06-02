@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Servidor de la estación 023 reparado",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-06-02T02:00:24.460Z"
+    },
+    {
+      "id": 2,
+      "message": "Disco SSD de cabina 5 estación 002 cambiado",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-06-02T02:00:29.128Z"
+    },
+    {
+      "id": 3,
+      "message": "1122 wireless error en estación 005 - cambiar estado",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-06-02T02:47:59.042Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    }
+  ]
+}
